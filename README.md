@@ -6,10 +6,12 @@
 
 Building practical projects with **data, technology, and user-focused thinking.**
 
+
 <p>
+  
   <a href="www.linkedin.com/in/anchal-patial-342443357L">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  &nbsp;&nbsp;
+ <!-- <a href="YOUR_PORTFOLIO_URL">Portfolio</a> -->
 </p>
 
 </div>
@@ -109,11 +111,11 @@ Government College Una · HPTU
 </a>
 
 &nbsp;&nbsp;
-
+<!--
 <a href="YOUR_PORTFOLIO_URL">
   🌐 Portfolio
 </a>
-
+-->
 </p>
 
 ---
