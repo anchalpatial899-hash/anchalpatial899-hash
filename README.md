@@ -7,11 +7,16 @@
 Building practical projects with **data, technology, and user-focused thinking.**
 
 
-<p>
-  
-  <a href="www.linkedin.com/in/anchal-patial-342443357L">LinkedIn</a>
-  &nbsp;&nbsp;
- <!-- <a href="YOUR_PORTFOLIO_URL">Portfolio</a> -->
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anchal-patial-342443357" target="_blank">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/960px-LinkedIn_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+       width="40"
+       height="40"
+       alt="LinkedIn"
+       title="LinkedIn Profile">
+</a>
+
 </p>
 
 </div>
@@ -102,23 +107,25 @@ Government College Una · HPTU
 
 <p align="left">
 
-<a href="www.linkedin.com/in/anchal-patial-342443357">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
-       width="35"
-       height="35"
+<a href="https://www.linkedin.com/in/anchal-patial-342443357" target="_blank">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/960px-LinkedIn_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+       width="40"
+       height="40"
        alt="LinkedIn"
-       title="LinkedIn" />
+       title="LinkedIn Profile">
 </a>
 
-&nbsp;&nbsp;
+</p>
 <!--
+&nbsp;&nbsp;
+
 <a href="YOUR_PORTFOLIO_URL">
   🌐 Portfolio
 </a>
--->
-</p>
 
----
+</p>
+-->
+
 
 <div align="center">
 
